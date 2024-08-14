@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Accordion Component
 
 ## Overview
