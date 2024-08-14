@@ -3,9 +3,10 @@ import Accourdian from "./Components/Accourdian";
 
 function App() {
   return (
-    <>
-   <Accourdian/>
-    </>
+    <div className="App">
+     
+      <Accourdian />
+    </div>
   );
 }
 
